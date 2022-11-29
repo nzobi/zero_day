@@ -1,1 +1,1 @@
-This is a readme I am doing
+The core operating system name
